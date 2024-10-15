@@ -1,6 +1,7 @@
 # Contributors
 - This is the beta testing.
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
+- Hi I am Arnold!!
 - Hi iam Chiru !!
 - Hi i am Watiri
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
